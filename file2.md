@@ -16,3 +16,12 @@ __bold__
 
 1. This is bullet
 1. This is second bullet.
+
+
+
+`code`
+
+
+```r
+print("hello world")
+```
