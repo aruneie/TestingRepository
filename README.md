@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/aruneie/TestingRepository.svg?branch=master)](https://travis-ci.org/aruneie/TestingRepository)
+
 # TestingRepository
 ## This is a practice repository
 
