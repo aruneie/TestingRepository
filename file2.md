@@ -1,11 +1,11 @@
-#Markdown
+# Markdown
 
 *italic*
 
 __bold__
 
 
-[Search](www.google.com)
+[Search](https://www.google.com)
 
 
 
@@ -15,4 +15,4 @@ __bold__
 > This is quote
 
 1. This is bullet
-2. This is second bullet.
+1. This is second bullet.
