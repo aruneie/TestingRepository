@@ -1,3 +1,3 @@
-language: r
-r:
-        -release
+language: make
+script:
+        make
